@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.Mangalam/Mangalam_89)
+![Leetcode Stats](https://leetcard.Mangalam_89/Mangalam_89)
